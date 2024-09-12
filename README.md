@@ -1,6 +1,8 @@
 # PHPinga
 Informações sobre os PHPingas da vida
 
+_Onde houver duas ou mais pessoas reunidas em nome do PHP, ali será um PHPinga_
+
 #Regras básicas sobre o PHPinga
 
 O PHPinga se dedica a prover uma experiência sem constrangimentos para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiências, aparência física, dimensões corporais, raça, religião ou posicionamento político. Não será tolerado o constrangimento de participantes do evento de modo algum. Linguagem e imagens sexuais direcionadas a qualquer grupo ou pessoa específica não são apropriados ao local do evento. Organizadores do evento também estão sujeitos à política de prevenção de constrangimento.
